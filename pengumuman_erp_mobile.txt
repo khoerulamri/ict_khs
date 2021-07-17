@@ -1,0 +1,23 @@
+Selamat Siang, 
+Menginformasikan terkait Absensi Online untuk pekerja yang WFH s.d. pekerja masuk kantor dengan normal.
+
+Untuk Flow / Alur Aplikasi Absen dapat di baca di file yang kami akan share 
+
+Untuk Aplikasi Absensi Online dapat di download melalui link berikut : 
+
+https://quick.co.id/download/ERP_Mobile.apk
+
+Petunjuk penggunaan ada di link berikut : 
+
+1. Pendaftaran Android : https://quick.co.id/download/PendaftaranAndroid.mp4
+2. Pekerja Melakukan Absen : https://quick.co.id/download/PekerjaMelakukanAbsen.mp4
+3. melihat histori absen : https://quick.co.id/download/FiturMelihatHistoryPresensi.mp4
+
+Untuk login aplikasi menggunakan login ERP yaitu menggunakan nomor induk masing-masing dan password masing2 yg terkirim melalui SMS di nomor mygroup masing-masing, jika tidak masuk atau hilang maka dpt menggunakan Fitur Lupa Password yg ada dihalaman Login Aplikasi, otomatis akan terkirim ke email eksternal / email pribadi pekerja .
+
+Untuk verifikasi login ERP mohon menyertakan username dan nama dan menginformasikan ke nomor 08112869663 (Amri) 
+
+Apabila ada pertanyaan dipersilahkan.
+
+Bapak / Ibu dimohon utk segera install aplikasi, karena akan dilakukan proses aktifasi terlebih dahulu.
+Atas perhatiannya kami ucapkan terima kasih.
